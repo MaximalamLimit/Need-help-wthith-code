@@ -82,4 +82,4 @@ The part with fortune upgrades isn't working, I need help
 
     // Start the automated process when the script is loaded
     startAutomation();
-})();
+    })();
